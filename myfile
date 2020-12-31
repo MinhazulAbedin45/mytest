@@ -1,0 +1,3 @@
+git remote
+git commit -m "my fsdf"
+git push -u origin main.
